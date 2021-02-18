@@ -1,2 +1,19 @@
-# uniAPP-ITNews
-uni-app &amp; uniCloud 从零入门开发《IT技术资讯类跨端应用》
+# test-uniapp
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
